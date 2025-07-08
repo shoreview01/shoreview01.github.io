@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "en-EN"
 rtl                      : false # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Seungeui Byun"
+title                    : "About Me"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : #"Seungeui Byun" # site tagline that appears below site title in masthead
 name                     : "Seungeui Byun"
 description              : "A website for my portfolio."
 url                      : "https://shoreview01.github.io"
@@ -27,7 +27,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/shoreview01/shoreview01.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "I am Seungeui Byun" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Seungeui Byun" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Electrical Engineering Student in Korea University."
   location         : "Seoul, Korea"
-  email            : "shoreview01@korea.ac.kr"
+  email            : #"shoreview01@korea.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
