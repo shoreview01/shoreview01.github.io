@@ -14,7 +14,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "my_skin" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-EN"
@@ -117,11 +117,11 @@ analytics:
 author:
   name             : "Seungeui Byun"
   avatar           : "/assets/images/변승의.jpg"
-  bio              : "Electrical Engineering Student in Korea University."
+  bio              : "Electrical Engineering Student at Korea University."
   location         : "Seoul, Korea"
   email            : #"shoreview01@korea.ac.kr"
   links:
-    - label: "Email"
+    - label: "shoreview01@korea.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:shoreview01@korea.ac.kr
     - label: "Website"
@@ -133,6 +133,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       #url: "https://facebook.com/"
+    - label: "Korea University"
+      icon: "fas fa-fw fa-university"
+      url: "https://www.korea.edu/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/seungeui-byun-5b02881b8/"
