@@ -1,0 +1,25 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+@media screen and (max-width: 768px) {
+  .sidebar {
+    position: static;
+    top: auto;
+    width: 100%;
+    float: none;
+    margin-bottom: 1em;
+  }
+}
+
+
+html {
+  font-size: 18px; // 기본 16px → 원하는 크기로 조절
+}
