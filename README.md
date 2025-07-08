@@ -1,1 +1,0 @@
-# shoreview01.github.io
