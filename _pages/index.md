@@ -7,8 +7,8 @@ author_profile: true
 
 ## Biography
 
-I’m an undergraduate student in [**Electrical Engineering**](https://ee.korea.ac.kr/eng) at [**Korea University**](https://korea.edu),  
-currently preparing for a Ph.D. in **Wireless Communications** and **Information Theory** in the United States.  
+I’m an undergraduate student in [**Electrical Engineering**](https://ee.korea.ac.kr/eng) at [**Korea University**](https://korea.edu).
+
 My academic interests include:
 
 - **NLoS (Non-Line-of-Sight) Localization**
