@@ -7,29 +7,8 @@ author_profile: true
 
 ## Biography
 
-I’m an undergraduate student in [**Electrical Engineering**](https://ee.korea.ac.kr/eng) at [**Korea University**](https://korea.edu).
+I’m a graduate student in [LICS (Lab for Informatics, Communications, and Systems)](https://lics.korea.ac.kr) of [**Department of Electrical and Computer Engineering**](https://ee.korea.ac.kr/eng) at [**Korea University**](https://korea.edu), supervised by professor Sang Hyun Lee.
 
-My academic interests include:
+I received a bachelor of science in Electrical Engineering at Korea University in February 2026 with high honors.
 
-- **NLoS (Non-Line-of-Sight) Localization**
-- **Message Passing Algorithms (e.g., AMP, Affinity Propagation)**
-- **Quantum Algorithms in Signal Processing**
-
-I am currently conducting research on applying the **HHL quantum algorithm** to vehicular localization in NLoS environments, integrating both simulation and real-world deployment using Raspberry Pi.
-
-## Projects
-
-- 📡 **Quantum-enhanced GAMP Solver** for Vehicle NLoS Localization  
-  A hybrid quantum-classical algorithm implemented using Qiskit and simulated on QASM, deployed with Raspberry Pi
-
-- 🧠 **Clustering and Message Passing in Visible Light Communication**  
-  A novel fusion of GAMP and clustering techniques applied to VLC signal environments (planned)
-
-## Contact
-
-You can find me on:
-
-- 📍 **Seoul, Korea**
-- 📧 [Email](mailto:shoreview01@korea.ac.kr)
-- 💻 [GitHub](https://github.com/shoreview01)
-- 📸 [Instagram](https://instagram.com/byunhaeppy)
+My academic interests include various optimization methods such as message passing algorithms (e.g., AMP, affinity propagation), machine learning, and quantum computing.
