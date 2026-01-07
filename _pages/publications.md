@@ -14,7 +14,7 @@ layout: single
 <ul>
   <li>
     <strong>An Online Framework for Optimal Routing in Large-Scale IoT Networks</strong><br>
-    <span class="pub-authors"><strong>Seungeui Byun</strong>, Yong Hun Jang, Sang Hyun Lee</span><br>
+    <span class="pub-authors"><strong>Seungeui Byun</strong>, Yong Hun Jang, Sang Hyun Lee</span>
     <span class="conf-name">KICS Winter Conference 2026</span>
   </li>
 </ul>
