@@ -121,9 +121,12 @@ author:
   location         : "Seoul, Korea"
   email            : #"shoreview01@korea.ac.kr"
   links:
-    - label: "shoreview01@korea.ac.kr"
+    - label: "shoreview01[at]korea.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:shoreview01@korea.ac.kr
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/shoreview01"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       #url: "https://your-website.com"
@@ -136,15 +139,6 @@ author:
     - label: "Korea University"
       icon: "fas fa-fw fa-university"
       url: "https://www.korea.edu/"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/seungeui-byun-5b02881b8/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/shoreview01"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/byunhaeppy"
 
 # Site Footer
 footer:
