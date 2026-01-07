@@ -12,6 +12,7 @@ I received a Bachelor of Science in Electrical Engineering from Korea University
 
 My academic interests include various optimization methods such as message passing algorithms (e.g., AMP, affinity propagation), machine learning, and quantum computing.
 
-If you want to contact me, send me an email via <span style="font-family: monospace;">
-shoreview01 <span style="font-family: serif;">[at]</span> korea.ac.kr
+If you want to contact me, send me an email via
+<span style="font-family: monospace;">
+shoreview01 <span style="font-family: monospace;">[at]</span> korea.ac.kr
 </span>.

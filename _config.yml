@@ -121,7 +121,7 @@ author:
   location         : "Seoul, Korea"
   email            : #"shoreview01@korea.ac.kr"
   links:
-    - label: "shoreview01[at]korea.ac.kr"
+    - label: "shoreview01 [at] korea.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:shoreview01@korea.ac.kr
     - label: "GitHub"
