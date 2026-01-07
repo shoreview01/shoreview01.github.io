@@ -17,3 +17,13 @@ search: false
 html {
   font-size: 18px; // 기본 16px → 원하는 크기로 조절
 }
+
+/* Publication meta (authors, conference) */
+.pub-meta,
+.pub-authors,
+.conf-name {
+  display: block;
+  font-size: 0.9rem; /* slightly smaller than body */
+  color: #666;
+  margin-top: 0.15rem;
+}
