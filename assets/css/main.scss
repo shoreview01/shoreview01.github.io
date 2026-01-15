@@ -27,3 +27,8 @@ html {
   color: #383838;
   margin-top: 0.15rem;
 }
+
+/* Hide permalink icons on headers */
+.header-link {
+  display: none !important;
+}
