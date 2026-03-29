@@ -11,6 +11,16 @@ layout: single
 ## Conferences
 
 **2026**
+
+<ul>
+  <li>
+    <strong>A Testbed Implementation of LLM-Based Intent Coordination for Autonomous RAN Management</strong><br>
+    <span class="pub-authors">Wookjin Lee, Jungbum Lee, Gun Kim, <strong>Seungeui Byun</strong>, Sang Hyun Lee*</span>
+    <span class="conf-name">2026 IEEE International Conference on Communications Workshops (ICC Workshops)</span>
+  </li>
+</ul>
+
+ 
 <ul>
   <li>
     <strong>An Online Framework for Optimal Routing in Large-Scale IoT Networks</strong><br>
