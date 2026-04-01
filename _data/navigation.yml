@@ -8,6 +8,8 @@ main:
     url: /projects/
   - title: "Experiences"
     url: /experiences/
+  - title: "Archives"
+    url: /archives/
  # - title: "CV"
  #   url: /assets/SeungeuiByun_CurriculumVitae.pdf
   # - title: "About"

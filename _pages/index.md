@@ -16,5 +16,3 @@ If you want to contact me, send me an email via
 <span style="font-family: monospace; font-size: 16px;">
 shoreview01 <span>[at]</span> korea.ac.kr
 </span>.
-
-$Ax = b$.
