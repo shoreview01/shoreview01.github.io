@@ -8,3 +8,15 @@
 <link rel="manifest" href="{{site.baseurl}}/assets/favicon/site.webmanifest" />
 
 <!-- end custom head snippets -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    },
+    svg: {
+      fontCache: 'global'
+    }
+  };
+</script>
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
