@@ -35,7 +35,7 @@ It is clear that for a Gaussian distribution, the solution for $\mu$ decouples f
 
 ### Bias of maximum likelihood
 
-We first note that the maximum likelihood solutions $\mu_{ML}$ and $\sigma^2_{ML}$ are functions of the dataset values $x_1,\dots, x_N$. Suppose that each of these values has been generated independently from a Gaussian distribution whose true parameters are $\mu$ and $\sigma^2.$ Then, the expectations of $\mu_{ML}$ and $\sigma^2_{ML}$ with respect to these dataset values are
+We first note that the maximum likelihood solutions $\mu_{ML}$ and $\sigma_{ML}^2$ are functions of the dataset values $x_1,\dots, x_N$. Suppose that each of these values has been generated independently from a Gaussian distribution whose true parameters are $\mu$ and $\sigma^2.$ Then, the expectations of $\mu_{ML}$ and $\sigma^2_{ML}$ with respect to these dataset values are
 
 $$
 \begin{align}
@@ -62,9 +62,13 @@ Suppose we have to fit polynomial curve to the given training data where there a
 
 $$
 \begin{align}
-    y(x, \mathbf{w}) = w_0 + w_1x + w_2x^2 + \cdots + w_Mx^{M} = \sum_{j=0}^Mw_jx^j,
+    y(x, \mathbf{w}) = w_0 + w_1x + w_2x^2 + \cdots + w_M x^{M} = \sum_{j=0}^M w_j x^j,
 \end{align}
+$$
+
 and each target value $t$ follows a Gaussian distribution as
+
+$$
 \begin{align}
     p(t|x,\mathbf{w},\beta) = \mathcal{N}(t|y(x,\mathbf{w}),\beta^{-1}),
 \end{align}
