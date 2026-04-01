@@ -128,7 +128,7 @@ $$
 \end{gather}
 $$
 
-Negative logarithm of $p(\mathbf{t}|\mathbf{x},\mathbf{w},\beta)p(\mathbf{w}|\alpha)$ is
+Negative logarithm of $p(\mathbf{t}\vert\mathbf{x},\mathbf{w},\beta)p(\mathbf{w}\vert\alpha)$ is
 
 $$
 \begin{align}
